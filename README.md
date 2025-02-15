@@ -73,4 +73,4 @@ Este proyecto se encuentra alojado en **GitHub Classroom**. Puedes acceder al re
 
 ## Autor
 
-<Coloca aquí tu nombre y matrícula>
+Ana Rebeca Moreno Reza | Matricula: 367783
